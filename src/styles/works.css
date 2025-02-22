@@ -5,9 +5,11 @@
     flex-direction: column;
 }
 #info-card{
-    padding: 8px;
     margin-top: 72px;
     text-align: center;
+}
+#info-card span{
+margin-bottom: 20px;
 }
 .container-card{
     margin-top: 56px;
