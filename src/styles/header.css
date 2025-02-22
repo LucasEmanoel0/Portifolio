@@ -41,9 +41,6 @@ header{
     margin-top: 56px;
     margin-bottom: 40px;
 }
-#name{
-    color: var(--red-color);
-}
 #information p {
     margin-bottom:8px ;
 }
