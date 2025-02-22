@@ -1,23 +1,18 @@
-em-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para apresentar minhas habilidades, projetos e experiência de forma interativa e visualmente atraente.
+📌 MEU PORTIFOLIO
 
-🚀 Tecnologias Utilizadas
+Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para apresentar minhas habilidades, projetos e experiência de forma interativa e visualmente atraente.
 
-HTML5
+🚀 TECNOLOGIAS USADAS
 
-CSS3 (incluindo Tailwind ou Bootstrap, se aplicável)
+● HTML5
 
-JavaScript (Vanilla ou frameworks como React, Vue, etc.)
+● CSS3 (incluindo Tailwind ou Bootstrap, se aplicável)
 
-Node.js (caso tenha backend)
+● JavaScript (Vanilla ou frameworks como React, Vue, etc.)
 
-Outras tecnologias (caso tenha APIs, banco de dados, etc.)
 
-🎨 Funcionalidades
+🎨 FUNCIONALIDADES
 
-Exibição de informações sobre mim
+● Exibição de informações sobre mim
 
-Seção de projetos com links para repositórios e demonstrações
-
-Contato com formulário ou links para redes sociais
-
-Design responsivo para diferentes dispositivos
+● Seção de projetos com links para repositórios e demonstrações
