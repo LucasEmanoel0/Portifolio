@@ -1,0 +1,37 @@
+#contacts{
+    border-top: 1px solid var(--yellow-color);
+    background-image: url(../assets/img/Background_Contacts.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 20% 100%;
+    min-height: 785px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#container-contacts{
+
+}
+#info-contacts{
+    margin-top: 128px;
+    text-align: center;
+}
+#info-contacts h2{
+    margin: 8px 0;
+
+}
+#contato{
+    color: var(--purple-color);
+}
+#contacts-card{
+    margin-top: 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+#contacts-card img{
+    border-radius: 10px;
+}
+#contacts-card img:hover{
+    border: 1px solid var(--green-color);
+}

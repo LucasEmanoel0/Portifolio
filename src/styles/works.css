@@ -25,7 +25,7 @@ margin-bottom: 20px;
 }
 .card-post{
     background-color: var(--gray-300);
-    border: 1px solid var(--green-color);
+    border: 1px solid var(--blue-color);
     padding: 8px;
     border-radius: 10px;
     display: flex;
